@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=200&section=header&text=Hi%20I'm%20Sanjay%20👋&fontSize=42&fontColor=fff&animation=twinkling" width="100%" />
 
   <!-- Animated Typewriter Header -->
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/san-jay770">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&width=500&lines=Full+Stack+%26+Web+Developer;AI+%26+Data+Science+Student;Passionate+Problem+Solver" alt="Typing SVG" />
   </a>
 
@@ -86,8 +86,8 @@ Full-stack HR management platform with employee management, job management, docu
 
   <br><br>
 
-  <!-- Profile Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=san-jay770&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <!-- Profile Visitor Counter (Fixed Working Service) -->
+  <img src="https://profile-counter.glitch.me/san-jay770/count.svg" alt="Profile Views" />
 
 </div>
 
