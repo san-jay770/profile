@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sanjay
 
-<img src="profile.jpeg" alt="Sanjay Profile Photo" width="150" align="right" style="border-radius: 50%;">
+<img src="profile.jpeg" alt="Sanjay Profile Photo" width="150" align="right" style="border-radius: 100%;">
 
 ### 🚀 Full Stack & Web Developer | AI & Data Science Student
 
